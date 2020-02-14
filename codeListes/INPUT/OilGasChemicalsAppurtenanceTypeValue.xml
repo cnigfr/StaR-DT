@@ -1,0 +1,65 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="OilGasChemicalsAppurtenanceTypeValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <description>Classification of oil, gas, chemicals appurtenances.</description>
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports">OilGasChemicalsAppurtenanceTypeValue</identifier>
+  <name>oil, gas and chemicals appurtenance type</name>
+  <dictionaryEntry>
+    <Definition gml:id="_5839_9034">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsAppurtenanceTypeValue">pump</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5839_9035">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsAppurtenanceTypeValue">gasStation</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5839_9036">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsAppurtenanceTypeValue">oilGasChemicalsNode</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5839_9037">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsAppurtenanceTypeValue">compression</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5839_9038">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsAppurtenanceTypeValue">terminal</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5839_9039">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsAppurtenanceTypeValue">deliveryPoint</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5839_9040">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsAppurtenanceTypeValue">frontier</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5839_9041">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsAppurtenanceTypeValue">marker</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5839_9042">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsAppurtenanceTypeValue">beacon</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5839_9299">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsAppurtenanceTypeValue">productionRegion</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5839_9301">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsAppurtenanceTypeValue">plant</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5839_9302">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsAppurtenanceTypeValue">storage</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

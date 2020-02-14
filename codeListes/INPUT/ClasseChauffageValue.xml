@@ -1,0 +1,21 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="ClasseChauffageValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/core">ClasseChauffageValue</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="_7610_9355">
+      <description>Chauffage 109°</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/ClasseChauffageValue">109</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7610_9356">
+      <description>Chauffage 95°</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/ClasseChauffageValue">95</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7610_9357">
+      <description>Chauffage 180°</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/ClasseChauffageValue">180</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

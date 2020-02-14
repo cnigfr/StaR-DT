@@ -1,0 +1,20 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="ProtectionPISValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/core">ProtectionPISValue</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="_7597_9329">
+      <description>Geotextile</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/ProtectionPISValue">geotextile</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7597_9330">
+      <description>Digue g&amp;#233;nie civil (beton)</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/ProtectionPISValue">...</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7597_9331">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/ProtectionPISValue">autre</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

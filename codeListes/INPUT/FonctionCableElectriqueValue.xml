@@ -1,0 +1,32 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="FonctionCableElectriqueValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/core">FonctionCableElectriqueValue</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="_6089_9160">
+      <description>Câble servant au transport de l'énergie</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/FonctionCableElectriqueValue">transportEnergie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6089_9161">
+      <description>Cable utile à la distribution d'énergie</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/FonctionCableElectriqueValue">distributionEnergie</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6089_9162">
+      <description>C&amp;#226;ble de protection cathodique</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/FonctionCableElectriqueValue">protectionCathodique</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6089_9163">
+      <description>C&amp;#226;ble servant de mise &amp;#224; la terre</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/FonctionCableElectriqueValue">miseTerre</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6089_9164">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/FonctionCableElectriqueValue">autre</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

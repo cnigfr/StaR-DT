@@ -1,0 +1,19 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="ProtectionPINSValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/core">ProtectionPINSValue</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="_7597_9329">
+      <description>Geotextile</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/ProtectionPINSValue">geotextile</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7597_9330">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/ProtectionPINSValue">inconnu</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7597_9331">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/ProtectionPINSValue">autre</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

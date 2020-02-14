@@ -1,0 +1,26 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="AnnotationTypeValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/core">AnnotationTypeValue</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="_5736_8820">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/AnnotationTypeValue">repere</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5736_8823">
+      <description>&amp;#192; utiliser pour visualiser une fl&amp;#232;che dans une annotation</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/AnnotationTypeValue">fleche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5736_8824">
+      <description>&amp;#192; utiliser pour visualiser une ligne dans une annotation</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/AnnotationTypeValue">ligne</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5736_8825">
+      <description>&amp;#192; utiliser pour visualiser une &amp;#233;tiquette dans une annotation</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/AnnotationTypeValue">etiquette</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

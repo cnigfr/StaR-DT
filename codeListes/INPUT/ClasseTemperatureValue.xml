@@ -1,0 +1,21 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="ClasseTemperatureValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/core">ClasseTemperatureValue</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="_6118_9174">
+      <description>Inf&amp;#233;rieur &amp;#224; 110&amp;#176;C</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/ClasseTemperatureValue">inf110</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6118_9175">
+      <description>Entre 110&amp;#176;C et 180&amp;#176;C</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/ClasseTemperatureValue">110a180</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6118_9176">
+      <description>Sup&amp;#233;rieur &amp;#224; 180&amp;#176;C</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/ClasseTemperatureValue">plus180</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

@@ -1,0 +1,20 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="ThermalProductTypeValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <description>Classification of thermal products.</description>
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports">ThermalProductTypeValue</identifier>
+  <name>Thermal product type</name>
+  <dictionaryEntry>
+    <Definition gml:id="_6124_9354">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ThermalProductTypeValue">water</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6124_9358">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ThermalProductTypeValue">steam</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6124_9359">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ThermalProductTypeValue">glycoled water</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

@@ -1,0 +1,32 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="TypeParticulariteValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/core">TypeParticulariteValue</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="_5739_9150">
+      <description>Zone en projet</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeParticulariteValue">zoneProjet</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5739_9332">
+      <description>Zone d'exemption d'investigations complémentaires</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeParticulariteValue">zoneExemptionIC</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5739_9151">
+      <description>Zone non couverte</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeParticulariteValue">zoneNonCouverte</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5739_9361">
+      <description>Zone pour laquelle il faut se reporter au plan de l'exploitant pour obtenir des détails complémentaires.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeParticulariteValue">zoneVigilance</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5739_8834">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeParticulariteValue">autre</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

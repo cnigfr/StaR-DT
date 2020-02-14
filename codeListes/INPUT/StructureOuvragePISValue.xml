@@ -1,0 +1,20 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="StructureOuvragePISValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/core">StructureOuvragePISValue</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="_6205_9242">
+      <description>Digue remblais (poids)</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/StructureOuvragePISValue">remblais</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6205_9243">
+      <description>Digue g&amp;#233;nie civil (beton)</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/StructureOuvragePISValue">genie-civil</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6205_9320">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/StructureOuvragePISValue">autre</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

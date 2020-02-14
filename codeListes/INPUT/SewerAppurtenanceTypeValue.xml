@@ -1,0 +1,112 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="SewerAppurtenanceTypeValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <description>Classification of sewer appurtenances.</description>
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports">SewerAppurtenanceTypeValue</identifier>
+  <name>sewer appurtenance type</name>
+  <dictionaryEntry>
+    <Definition gml:id="_7590_9293">
+      <description>Anode.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/SewerAppurtenanceTypeValue">anode</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7590_9294">
+      <description>Barrel.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/SewerAppurtenanceTypeValue">barrel</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7590_9295">
+      <description>Bar screen.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/SewerAppurtenanceTypeValue">barScreen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7590_9296">
+      <description>Catch basin.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/SewerAppurtenanceTypeValue">catchBasin</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7590_9297">
+      <description>Clean out.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/SewerAppurtenanceTypeValue">cleanOut</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7590_9298">
+      <description>Discharge structure.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/SewerAppurtenanceTypeValue">dischargeStructure</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7590_9280">
+      <description>Meter.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/SewerAppurtenanceTypeValue">meter</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7590_9281">
+      <description>Pump.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/SewerAppurtenanceTypeValue">pump</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7590_9282">
+      <description>Regulator.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/SewerAppurtenanceTypeValue">regulator</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7590_9283">
+      <description>SCADA sensor.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/SewerAppurtenanceTypeValue">scadaSensor</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7590_9284">
+      <description>Thrust protection.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/SewerAppurtenanceTypeValue">thrustProtection</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7590_9285">
+      <description>Tide gate.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/SewerAppurtenanceTypeValue">tideGate</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7590_9286">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/SewerAppurtenanceTypeValue">autre</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7590_9287">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/SewerAppurtenanceTypeValue">sewerNode</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7590_9288">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/SewerAppurtenanceTypeValue">connection</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7590_9289">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/SewerAppurtenanceTypeValue">specificStructure</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7590_9290">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/SewerAppurtenanceTypeValue">mechanicAndElectromechanicEquipment</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7590_9291">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/SewerAppurtenanceTypeValue">rainwaterCollector</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7590_9292">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/SewerAppurtenanceTypeValue">watertankOrChamber</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="TypeInfoSupplementaireValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <description>Décrit les diverses formes d'informations supplémentaires qui sont incluses dans un réseau d'utilité publique.</description>
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/core">TypeInfoSupplementaireValue</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="_5667_8609">
+      <description>Type de détail non inclus dans les autres valeurs</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeInfoSupplementaireValue">autre</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5667_8608">
+      <description>Profil longitudinal.&#13;
+Exemple : croquis d&amp;#233;taill&amp;#233; d’un forage dirig&amp;#233;.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeInfoSupplementaireValue">croquisProfil</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5667_9135">
+      <description>Profil transversal.&#13;
+Exemple : croquis détaillé d&amp;rsquo;ouvrage d'art.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeInfoSupplementaireValue">coupeTranchée</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5667_9136">
+      <description>Vue schématique détaillée des ouvrages.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeInfoSupplementaireValue">encartDétail</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

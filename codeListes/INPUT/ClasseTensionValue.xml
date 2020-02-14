@@ -1,0 +1,28 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="ClasseTensionValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/core">ClasseTensionValue</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="_7599_9335">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/ClasseTensionValue">TBT</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7599_9336">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/ClasseTensionValue">BT</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7599_9337">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/ClasseTensionValue">HTA</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7599_9338">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/ClasseTensionValue">HTB</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7599_9345">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/ClasseTensionValue">inconnu</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

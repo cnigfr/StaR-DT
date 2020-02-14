@@ -1,0 +1,21 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="RegimeValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/core">RegimeValue</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="_6202_9189">
+      <description>Monophas&amp;#233;</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/RegimeValue">monohase</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6202_9190">
+      <description>Triphas&amp;#233;</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/RegimeValue">triphase</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6202_9191">
+      <description>Continu</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/RegimeValue">continu</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

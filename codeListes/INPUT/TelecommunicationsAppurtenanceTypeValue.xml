@@ -1,0 +1,118 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="TelecommunicationsAppurtenanceTypeValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <description>Classification of telecommunication appurtenances.</description>
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports">TelecommunicationsAppurtenanceTypeValue</identifier>
+  <name>telecommunications appurtenance type</name>
+  <dictionaryEntry>
+    <Definition gml:id="_5856_9113">
+      <description>Antenna.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/TelecommunicationsAppurtenanceTypeValue">antenna</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5856_9114">
+      <description>Copper (twisted-pair) maintenance loop.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/TelecommunicationsAppurtenanceTypeValue">copperMaintenanceLoop</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5856_9115">
+      <description>Copper repeater.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/TelecommunicationsAppurtenanceTypeValue">copperRepeater</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5856_9116">
+      <description>Digital cross connect (DXC).</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/TelecommunicationsAppurtenanceTypeValue">digitalCrossConnect</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5856_9117">
+      <description>Digital loop carrier (DLC).</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/TelecommunicationsAppurtenanceTypeValue">digitalLoopCarrier</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5856_9118">
+      <description>Exchange (switch).</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/TelecommunicationsAppurtenanceTypeValue">exchange</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5856_9119">
+      <description>Fiber interconnect (FIC).</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/TelecommunicationsAppurtenanceTypeValue">fiberInterconnect</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5856_9120">
+      <description>Joint closure (copper of fiber).</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/TelecommunicationsAppurtenanceTypeValue">jointClosure</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5856_9121">
+      <description>Load coil.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/TelecommunicationsAppurtenanceTypeValue">loadCoil</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5856_9122">
+      <description>Main distribution frame (MDF).</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/TelecommunicationsAppurtenanceTypeValue">mainDistributionFrame</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5856_9123">
+      <description>Multiplexer (MUX).</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/TelecommunicationsAppurtenanceTypeValue">multiplexer</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5856_9124">
+      <description>Optical maintenance loop.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/TelecommunicationsAppurtenanceTypeValue">opticalMaintenanceLoop</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5856_9125">
+      <description>Optical repeater.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/TelecommunicationsAppurtenanceTypeValue">opticalRepeater</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5856_9126">
+      <description>Patch panel.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/TelecommunicationsAppurtenanceTypeValue">patchPanel</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5856_9127">
+      <description>Splice closure.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/TelecommunicationsAppurtenanceTypeValue">spliceClosure</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5856_9128">
+      <description>Splitter.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/TelecommunicationsAppurtenanceTypeValue">splitter</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5856_9129">
+      <description>Terminal.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/TelecommunicationsAppurtenanceTypeValue">terminal</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5856_9130">
+      <description>Termination.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/TelecommunicationsAppurtenanceTypeValue">termination</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5856_9131">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/TelecommunicationsAppurtenanceTypeValue">noticeBoard</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="WarningTypeValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <description>Classification des dispositifs  de protection.</description>
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports">WarningTypeValue</identifier>
+  <name>warning type</name>
+  <dictionaryEntry>
+    <Definition gml:id="_5684_8646">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WarningTypeValue">net</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5684_8647">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WarningTypeValue">tape</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5684_8648">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WarningTypeValue">concretePaving</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5684_9249">
+      <description>Un dispositif de protection existe mais sa nature est inconnue.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WarningTypeValue">unknown</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

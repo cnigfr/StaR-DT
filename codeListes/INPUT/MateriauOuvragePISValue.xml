@@ -1,0 +1,32 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="MateriauOuvragePISValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/core">MateriauOuvragePISValue</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="_6204_9244">
+      <description>Remblais</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/MateriauOuvragePISValue">remblais</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6204_9245">
+      <description>Palplanche</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/MateriauOuvragePISValue">palplanches</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6204_9246">
+      <description>Gabion</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/MateriauOuvragePISValue">gabion</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6204_9247">
+      <description>Enrochement</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/MateriauOuvragePISValue">enrochement</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6204_9309">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/MateriauOuvragePISValue">autre</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

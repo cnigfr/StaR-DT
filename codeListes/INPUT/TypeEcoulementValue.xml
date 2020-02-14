@@ -1,0 +1,21 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="TypeEcoulementValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/core">TypeEcoulementValue</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="_5850_9105">
+      <description>Ecoulement en charge par gravité</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeEcoulementValue">enChargeGravite</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5850_9106">
+      <description>Gravitaire en surface libre</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeEcoulementValue">gravitaireSurfaceLibre</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5850_9367">
+      <description>Ecoulement en charge par pressurisation</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeEcoulementValue">enChargePressurisation</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

@@ -1,0 +1,21 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="LeveTypeValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/core">LeveTypeValue</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="_5862_9132">
+      <description>Charge &amp;#224; la g&amp;#233;n&amp;#233;ratrice</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/LeveTypeValue">ChargeGeneratrice</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5862_9133">
+      <description>Altitude &amp;#224; la g&amp;#233;n&amp;#233;ratrice</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/LeveTypeValue">AltitudeGeneratrice</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5862_9134">
+      <description>Altitude du fluide</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/LeveTypeValue">AltitudeFluide</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

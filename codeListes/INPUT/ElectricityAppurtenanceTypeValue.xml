@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="ElectricityAppurtenanceTypeValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <description>Classification of electricity appurtenances.</description>
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports">ElectricityAppurtenanceTypeValue</identifier>
+  <name>electricity appurtenance type</name>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8653">
+      <description>contr&amp;#244;le de condensateur</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">capacitorControl</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8654">
+      <description>bo&amp;#238;tier de raccordement</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">connectionBox</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8655">
+      <description>Équipement de correction du facteur de puissance.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">correctingEquipment</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8656">
+      <description>Delivery point.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">deliveryPoint</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8657">
+      <description>Dynamic protective device.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">dynamicProtectiveDevice</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8658">
+      <description>Fuse.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">fuse</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8659">
+      <description>Generator.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">generator</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8660">
+      <description>Load tap changer.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">loadTapChanger</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8661">
+      <description>Main station.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">mainStation</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8662">
+      <description>Net station.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">netStation</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8663">
+      <description>Network protector.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">networkProtector</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8664">
+      <description>Open point.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">openPoint</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8665">
+      <description>Primary meter.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">primaryMeter</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8666">
+      <description>Recloser electronic control.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">recloserElectronicControl</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8667">
+      <description>Recloser hydraulic control.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">recloserHydraulicControl</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8668">
+      <description>Regulator control.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">regulatorControl</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8669">
+      <description>Relay control.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">relayControl</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8670">
+      <description>Sectionalizer electronic control.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">sectionalizerElectronicControl</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8671">
+      <description>Sectionalizer hydraulic control.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">sectionalizerHydraulicControl</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8672">
+      <description>Street light.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">streetLight</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8673">
+      <description>Sub station.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">subStation</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8674">
+      <description>Switch.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">switch</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8675">
+      <description>Transformer.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">transformer</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8676">
+      <description>Voltage regulator.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">voltageRegulator</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8677">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">detectionEquipment</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_8679">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">monitoringAndControlEquipment</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_9324">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">ras</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5687_9325">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ElectricityAppurtenanceTypeValue">junctionBox</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

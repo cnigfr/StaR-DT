@@ -1,0 +1,29 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="TypeCoteValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <description>Classification des type de côte.</description>
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/core">TypeCoteValue</identifier>
+  <name>Type de côte.</name>
+  <dictionaryEntry>
+    <Definition gml:id="_5737_8826">
+      <description>Partie de côte sous forme de ligne (ligne de côte ou ligne d'attache)</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeCoteValue">ligne</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5737_8827">
+      <description>Partie de côte sous forme d'une étiquette</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeCoteValue">etiquette</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5737_8828">
+      <description>Partie de côte sous forme de flèche</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeCoteValue">fleche</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5737_9342">
+      <description>Partie de côte sous forme de ligne d'attache</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeCoteValue">ligneAttache</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

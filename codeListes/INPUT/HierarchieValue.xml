@@ -1,0 +1,14 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="HierarchieValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/core">HierarchieValue</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="_6087_9158">
+      <description>El&amp;#233;ment constitutif du r&amp;#233;seau</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/HierarchieValue">reseau</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6087_9159">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/HierarchieValue">branchement</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

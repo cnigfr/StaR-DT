@@ -1,0 +1,21 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="ClassePrecisionReseau" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/core">ClassePrecisionReseau</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="_5865_9137">
+      <description>Un ouvrage ou tron&amp;#231;on d'ouvrage est rang&amp;#233; dans la classe A si l'incertitude maximale de localisation indiqu&amp;#233;e par son exploitant est inf&amp;#233;rieure ou &amp;#233;gale &amp;#224; 40 cm et s'il est rigide, ou &amp;#224; 50 cm s'il est flexible (l'incertitude maximale est port&amp;#233;e &amp;#224; 80 cm pour les ouvrages souterrains de g&amp;#233;nie civil attach&amp;#233;s aux installations destin&amp;#233;es &amp;#224; la circulation de v&amp;#233;hicules de transport ferroviaire ou guid&amp;#233; lorsque ces ouvrages ont &amp;#233;t&amp;#233; construits ant&amp;#233;rieurement au 1er janvier 2011),</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/ClassePrecisionReseau">A</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5865_9138">
+      <description>Un ouvrage ou tron&amp;#231;on d'ouvrage est rang&amp;#233; dans la classe B si l'incertitude maximale de localisation indiqu&amp;#233;e par son exploitant est sup&amp;#233;rieure &amp;#224; celle relative &amp;#224; la classe A et inf&amp;#233;rieure ou &amp;#233;gale &amp;#224; 1,5 m&amp;#232;tre.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/ClassePrecisionReseau">B</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5865_9139">
+      <description>Un ouvrage ou tron&amp;#231;on d'ouvrage est rang&amp;#233; dans la classe C si l'incertitude maximale de localisation indiqu&amp;#233;e par son exploitant est sup&amp;#233;rieure &amp;#224; 1,5 m&amp;#232;tre, ou si son exploitant n'est pas en mesure de fournir de donn&amp;#233;es de localisation.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/ClassePrecisionReseau">C</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

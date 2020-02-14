@@ -1,0 +1,22 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="PositionLabelValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <description>Décalage de l'étiquette par rapport au point de placement.</description>
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/core">PositionLabelValue</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="_6076_9154">
+      <description>Le point d'application de l'étiquette est à gauche (horizontal) ou en-dessous (vertical)</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/PositionLabelValue">0</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6076_9155">
+      <description>Le point d'application de l'étiquette est au milieu.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/PositionLabelValue">0.5</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6076_9156">
+      <description>Le point d'application de l'étiquette est à droite (horizontal) ou au-dessus (vertical)</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/PositionLabelValue">1</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

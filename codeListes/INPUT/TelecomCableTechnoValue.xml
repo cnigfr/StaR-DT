@@ -1,0 +1,15 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="TelecomCableTechnoValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/core">TelecomCableTechnoValue</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="_6091_9165">
+      <description>Cable en cuivre</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TelecomCableTechnoValue">cuivre</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6091_9166">
+      <description>Cable en fibre</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TelecomCableTechnoValue">fibre</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

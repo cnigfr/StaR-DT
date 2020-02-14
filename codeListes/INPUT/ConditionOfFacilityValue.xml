@@ -1,0 +1,32 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="ConditionOfFacilityValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <description>The status of a facility with regards to its completion and use.</description>
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports">ConditionOfFacilityValue</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="_5709_8750">
+      <description>Actif- Ouvrages ou tronçons d'ouvrages exploités</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ConditionOfFacilityValue">functional</identifier>
+      <name>Actif</name>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5709_8751">
+      <description>Modification ou une extension de l’ouvrage envisagée</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ConditionOfFacilityValue">projected</identifier>
+      <name>En projet</name>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5709_8752">
+      <description>Modifications en cours sur le réseau/ouvrage</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ConditionOfFacilityValue">underConstruction</identifier>
+      <name>En cours de construction/modification</name>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5709_8753">
+      <description>Arrêt définitif d'exploitation si non enregistré au GU</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ConditionOfFacilityValue">decommissioned</identifier>
+      <name>Déclassé</name>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

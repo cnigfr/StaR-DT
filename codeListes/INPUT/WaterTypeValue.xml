@@ -1,0 +1,29 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="WaterTypeValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <description>Classification of water types.</description>
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports">WaterTypeValue</identifier>
+  <name>water type</name>
+  <dictionaryEntry>
+    <Definition gml:id="_5849_9101">
+      <description>Potable water.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterTypeValue">potable</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5849_9102">
+      <description>Raw water.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterTypeValue">raw</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5849_9103">
+      <description>Salt water.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterTypeValue">salt</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5849_9104">
+      <description>Treated water.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterTypeValue">treated</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

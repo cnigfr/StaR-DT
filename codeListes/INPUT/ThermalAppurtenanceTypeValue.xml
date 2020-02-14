@@ -1,0 +1,47 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="ThermalAppurtenanceTypeValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <description>Classification of thermal appurtenance elements.</description>
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports">ThermalAppurtenanceTypeValue</identifier>
+  <name>Thermal appurtenance type</name>
+  <dictionaryEntry>
+    <Definition gml:id="_7596_9321">
+      <description>Vanne</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ThermalAppurtenanceTypeValue">valve</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7596_9348">
+      <description>Tés (droit / à saut / parallèle / droit-Vanne purge)</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ThermalAppurtenanceTypeValue">tee</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7596_9349">
+      <description>Point fixe</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ThermalAppurtenanceTypeValue">fixedPoint</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7596_9350">
+      <description>Coude</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ThermalAppurtenanceTypeValue">bend</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7596_9351">
+      <description>Réduction</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ThermalAppurtenanceTypeValue">reducing</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7596_9352">
+      <description>Compensateur</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ThermalAppurtenanceTypeValue">compensator</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7596_9353">
+      <description>Soudure</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/ThermalAppurtenanceTypeValue">welding</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

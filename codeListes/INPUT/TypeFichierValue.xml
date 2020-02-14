@@ -1,0 +1,44 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="TypeFichierValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/core">TypeFichierValue</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="_5735_8816">
+      <description>Portable Network Graphics</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeFichierValue">PNG</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5735_8817">
+      <description>Portable Document Format</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeFichierValue">PDF</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5735_8818">
+      <description>Joint Photographic Experts Group</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeFichierValue">JPEG</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5735_8819">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeFichierValue">TIFF</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5735_9143">
+      <description>Drawing eXchange Format</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeFichierValue">DXF</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5735_9144">
+      <description>DraWinG</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeFichierValue">DWG</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5735_9145">
+      <description>Digital Geospatial Metadata File</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/TypeFichierValue">DGM</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

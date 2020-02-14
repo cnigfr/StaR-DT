@@ -1,0 +1,5 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="TypeAccessoireValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <description>Classification des accessoires.  Cette classe regroupe différentes listes en fonction du type de réseau concerné.</description>
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/core">TypeAccessoireValue</identifier>
+  <name>Type d'accessoire.</name>
+</Dictionary>

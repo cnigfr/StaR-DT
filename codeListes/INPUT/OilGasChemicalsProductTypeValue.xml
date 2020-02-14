@@ -1,0 +1,225 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="OilGasChemicalsProductTypeValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <description>Classification of oil, gas and chemicals products.</description>
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports">OilGasChemicalsProductTypeValue</identifier>
+  <name>oil, gas and chemicals product type</name>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9043">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">liquefiedNaturalGas</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9044">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">methane</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9045">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">naturalGas</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9046">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">naturalGasAndTetrahydrothiophene</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9047">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">nitrogenGas</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9048">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">residualGas</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9049">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">accetone</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9050">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">air</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9051">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">argon</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9052">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">butadiene</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9053">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">butadiene1,3</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9054">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">butane</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9055">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">c3</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9056">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">carbonMonoxide</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9057">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">chlorine</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9058">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">compressedAir</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9059">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">crude</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9060">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">dichloroethane</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9061">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">diesel</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9062">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">ethylene</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9063">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">gasFabricationOfCocs</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9064">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">gasHFx</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9065">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">gasoil</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9066">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">hydrogen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9067">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">isobutane</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9068">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">JET-A1</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9069">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">kerosene</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9070">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">liquidAmmonia</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9071">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">liquidHydrocarbon</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9072">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">multiProduct</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9073">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">MVC</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9074">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">nitrogen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9075">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">oxygen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9076">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">phenol</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9077">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">propane</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9078">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">propyleen</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9079">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">propylene</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9080">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">raffinate</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9081">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">refineryProducts</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9082">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">saltWater</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9083">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">saumur</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9084">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">tetrachloroethane</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9085">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">unknown</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_5840_9086">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/OilGasChemicalsProductTypeValue">empty</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

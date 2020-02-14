@@ -1,0 +1,111 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="NatureReseauPCRSType" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/core">NatureReseauPCRSType</identifier>
+  <dictionaryEntry>
+    <Definition gml:id="_6547_9218">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/NatureReseauPCRSType">Electricité</identifier>
+      <name>ELEC</name>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6547_9219">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/NatureReseauPCRSType">Eclairage public</identifier>
+      <name>ELECECL</name>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6547_9220">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/NatureReseauPCRSType">Signalisation lumineuse tricolore</identifier>
+      <name>ELECSLT</name>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6547_9221">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/NatureReseauPCRSType">Eléctricité basse tension</identifier>
+      <name>ELECBT</name>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6547_9222">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/NatureReseauPCRSType">Eléctricité haute tension</identifier>
+      <name>ELECHT</name>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6547_9223">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/NatureReseauPCRSType">Gaz</identifier>
+      <name>GAZ</name>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6547_9224">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/NatureReseauPCRSType">Produits chimiques</identifier>
+      <name>CHIM</name>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6547_9225">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/NatureReseauPCRSType">Eau potable</identifier>
+      <name>AEP</name>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6547_9226">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/NatureReseauPCRSType">Assainissement et pluvial</identifier>
+      <name>ASSA</name>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6547_9227">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/NatureReseauPCRSType">Eaux pluviales</identifier>
+      <name>ASSAEP</name>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6547_9228">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/NatureReseauPCRSType">Eaux usées</identifier>
+      <name>ASSAEU</name>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6547_9229">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/NatureReseauPCRSType">Réseau unitaire</identifier>
+      <name>ASSARU</name>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6547_9230">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/NatureReseauPCRSType">Chauffage et climatisation</identifier>
+      <name>CHAU</name>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6547_9231">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/NatureReseauPCRSType">Télécom</identifier>
+      <name>COM</name>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6547_9232">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/NatureReseauPCRSType">Déchets</identifier>
+      <name>DECH</name>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6547_9233">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/NatureReseauPCRSType">Incendie</identifier>
+      <name>INCE</name>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6547_9234">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/NatureReseauPCRSType">Multi réseaux</identifier>
+      <name>MULT</name>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6547_9235">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/core/NatureReseauPCRSType">Non défini</identifier>
+      <name>00</name>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

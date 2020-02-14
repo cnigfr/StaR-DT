@@ -1,0 +1,175 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="WaterAppurtenanceTypeValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <description>Classification of water appurtenances.</description>
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports">WaterAppurtenanceTypeValue</identifier>
+  <name>water appurtenance type</name>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9261">
+      <description>Anode.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">anode</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9262">
+      <description>Clear well.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">clearWell</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9251">
+      <description>Control valve.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">controlValve</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9252">
+      <description>Fitting.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">fitting</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9253">
+      <description>Hydrant.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">hydrant</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9254">
+      <description>Junction.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">junction</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9255">
+      <description>Lateral point.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">lateralPoint</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9256">
+      <description>Meter.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">meter</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9257">
+      <description>Pump.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">pump</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9258">
+      <description>Pump station.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">pumpStation</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9259">
+      <description>Sampling station.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">samplingStation</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9260">
+      <description>SCADA sensor.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">scadaSensor</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9263">
+      <description>Storage basin.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">storageBasin</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9264">
+      <description>Enclosed storage facility.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">storageFacility</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9265">
+      <description>Surge relief tank.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">surgeReliefTank</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9266">
+      <description>System valve.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">systemValve</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9267">
+      <description>Thrust protection.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">thrustProtection</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9268">
+      <description>Treatment plant.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">treatmentPlant</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9269">
+      <description>Production well.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">well</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9270">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">pressureRelieveValve</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9271">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">airRelieveValve</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9272">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">checkValve</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9273">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">waterExhaustPoint</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9274">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">waterServicePoint</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9275">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">fountain</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9276">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">pressureController</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9277">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">vent</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9278">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">recoilCheckValve</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9303">
+      <description>Hydrant.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">fireHydrant</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_7589_9279">
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/WaterAppurtenanceTypeValue">waterDischargePoint</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>

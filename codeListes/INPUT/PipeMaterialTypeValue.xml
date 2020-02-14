@@ -1,0 +1,149 @@
+<?xml-stylesheet type='text/xsl' href='./CodelistDictionary-v32.xsl'?><Dictionary xmlns="http://www.opengis.net/gml/3.2" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="PipeMaterialTypeValue" xsi:schemaLocation="http://www.opengis.net/gml/3.2 null">
+  <description>Codelist containing a classification of pipe material types.</description>
+  <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports">PipeMaterialTypeValue</identifier>
+  <name>Pipe material type value (Extended)</name>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9194">
+      <description>Acrylonitrile butadiene styrene (ABS).</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">ABS</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9195">
+      <description>Asbestos.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">asbestos</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9196">
+      <description>Iron without any finish on it, gray-black in color.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">blackIron</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9197">
+      <description>Steel with a surface layer of dark coloured iron oxides.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">blackSteel</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9198">
+      <description>Iron with a high Carbon content (above 2%).</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">castIron</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9199">
+      <description>Clay.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">clay</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9200">
+      <description>Composite concrete.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">compositeConcrete</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9201">
+      <description>Concrete.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">concrete</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9202">
+      <description>Chlorinated polyvinyl chloride (CPVC).</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">CPVC</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9203">
+      <description>Fibre reinforced plastic (FRP).</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">FRP</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9204">
+      <description>Galvanized steel.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">galvanizedSteel</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9205">
+      <description>Masonry.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">masonry</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9206">
+      <description>Other.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">other</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9207">
+      <description>Polybutylene (PB).</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">PB</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9208">
+      <description>Polyethylene (PE).</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">PE</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9209">
+      <description>Cross-linked high-density polyethylene (PEX).</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">PEX</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9210">
+      <description>Polypropylene (PP).</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">PP</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9211">
+      <description>Prestressed reinforced concrete.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">prestressedReinforcedConcrete</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9212">
+      <description>Polyvinyl chloride (PVC).</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">PVC</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9213">
+      <description>Reinforced concrete.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">reinforcedConcrete</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9214">
+      <description>Reinforced polymer mortar (RPMP).</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">RPMP</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9215">
+      <description>Steel.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">steel</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9216">
+      <description>Terracota.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">terracota</identifier>
+    </Definition>
+  </dictionaryEntry>
+  <dictionaryEntry>
+    <Definition gml:id="_6206_9217">
+      <description>Wood.</description>
+      <identifier codeSpace="http://cnig.gouv.fr/star-dt/inspireimports/PipeMaterialTypeValue">wood</identifier>
+    </Definition>
+  </dictionaryEntry>
+</Dictionary>
