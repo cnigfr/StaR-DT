@@ -1542,7 +1542,7 @@ Classe regroupant les éléments du réseau d'eaux pluviales qui ne rentrent pas
 		<xs:complexContent>
 			<xs:extension base="star-dt:TronconType">
 				<xs:sequence>
-					<xs:element name="nature" type="gml:MeasureType" minOccurs="0" maxOccurs="1">
+					<xs:element name="nature" type="gml:TypeTechniqueAlternativeValue" minOccurs="0" maxOccurs="1">
 						<xs:annotation>
 							<xs:documentation>-- Name --
 -- Definition --
