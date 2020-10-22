@@ -1541,16 +1541,18 @@ Classe regroupant les éléments du réseau d'eaux pluviales qui ne rentrent pas
 	<xs:complexType name="OuvrageEnTechniqueAlternativeType">
 		<xs:complexContent>
 			<xs:extension base="star-dt:TronconType">
-				<xs:sequence>
-					<xs:element name="nature" type="gml:TypeTechniqueAlternativeValue" minOccurs="0" maxOccurs="1">
-						<xs:annotation>
-							<xs:documentation>-- Name --
+				<xs:element name="nature" type="gml:ReferenceType" minOccurs="0" maxOccurs="1">
+				    <xs:annotation>
+					<xs:documentation>-- Name --
 -- Definition --
 Nature de l'ouvrage en technique alternative
 -- Description --
 -- Source --</xs:documentation>
-						</xs:annotation>
-					</xs:element>
+					<xs:appinfo>
+					    <gmlexr:targetCodeList>TypeTechniqueAlternativeValue</gmlexr:targetCodeList>
+					</xs:appinfo>
+				    </xs:annotation>
+				</xs:element>
 				</xs:sequence>
 			</xs:extension>
 		</xs:complexContent>
